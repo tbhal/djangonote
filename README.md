@@ -40,7 +40,7 @@
 ![search](/images/search.png)
 
 # TO DO
-- [ ] add note button working
+- [X] add note button working
 - [X] add images of working
 - [ ] add functionality to add images in notes
 
