@@ -43,3 +43,6 @@
 - [ ] add note button working
 - [X] add images of working
 - [ ] add functionality to add images in notes
+
+
+**Thanks to @souldeux and thenewboston for their tutorials I completed it with their help you can checkout their tutorials [here](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK) and [here](https://souldeux.com/blog/django-note-app-tutorial-part-1-layout-file-structure/)**
